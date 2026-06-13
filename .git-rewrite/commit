@@ -1,0 +1,12 @@
+tree e8d905343cae09b21833db4e2c4500926a79a7ee
+parent dfc23691400950e0fbfc283e14ddcb5dfcbea4b9
+author saberzero1 <github@emilebangma.com> 1777151630 +0200
+committer saberzero1 <github@emilebangma.com> 1777151630 +0200
+gpgsig -----BEGIN SSH SIGNATURE-----
+ U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgdjBDdYtbkIDIZ/lJ4Q6HhvrcEF
+ qSyXrT0b92BM7SsLMAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5
+ AAAAQAvXjQTb5ZnDSbEfmCbmBZvQ5qkdn+E9mZk6lnMlXWYf2nzIS8DkLhQp+huNEh4Ur0
+ amazThc6Wxbt9F7aDOFg0=
+ -----END SSH SIGNATURE-----
+
+refactor(theme): use Obsidian CSS custom property names
